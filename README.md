@@ -6,11 +6,11 @@ This project is a manual testing case study on the Swiggy food delivery platform
 
 ## Project Structure
 
-Swiggy-Manual-Testing-Project/ │ ├── Test Plan.docx 👉 Manual test plan ├── Test Cases.xlsx 👉 Manually written test cases ├── Bug Report.xlsx 👉 Bugs found during testing ├── Test Summary Report.docx 👉 Final status and insights │ ├── Screenshots/ 👉 (Optional) Bug or UI screenshots │ ├── bug1.png │ └── cart-issue.png │ └── Tools Used.txt 👉 Brief note about tools used
+Swiggy-Manual-Testing-Project/ │ ├── Test Plan.docx  Manual test plan ├── Test Cases.xlsx  Manually written test cases ├── Bug Report.xlsx  Bugs found during testing ├── Test Summary Report.docx  Final status and insights │ └── Tools Used.txt  Brief note about tools used
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Google Chrome (for testing)
 - Microsoft Excel (for test cases and bug reports)
@@ -18,7 +18,7 @@ Swiggy-Manual-Testing-Project/ │ ├── Test Plan.docx 👉 Manual test pla
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 **Amritha S V**  
 Aspiring software tester pursuing manual and automation testing.  
@@ -27,4 +27,4 @@ Always learning, always improving.
 
 ---
 
-📌 *This project is for portfolio and learning purposes only.*
+*This project is for portfolio and learning purposes only.*
