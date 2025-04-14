@@ -6,7 +6,7 @@ This project is a manual testing case study on the Swiggy food delivery platform
 
 ## Project Structure
 
-Swiggy-Manual-Testing-Project
+| Swiggy-Manual-Testing-Project |
 Test Plan.docx - Manual test plan 
 Test Cases.xlsx - Manually written test cases
 Bug Report.xlsx - Bugs found during testing
