@@ -1,6 +1,6 @@
 # Swiggy Manual Testing Project 
 
-This project is a manual testing case study on the Swiggy food delivery platform. It demonstrates real-world testing documents prepared for learning and showcasing testing skills.
+This project is a manual testing case study on the Swiggy food delivery platform. It demonstrates real-world testing documents prepared for learning.
 
 ---
 
