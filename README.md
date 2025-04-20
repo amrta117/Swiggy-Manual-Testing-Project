@@ -8,10 +8,10 @@ This project is a manual testing case study on the Swiggy food delivery platform
 
 Swiggy Manual Testing Project
 
-- Test Plan.docx - Manual test plan 
-- Test Cases.xlsx - Manually written test cases
-- Bug Report.xlsx - Bugs found during testing
-- Test Summary Report.docx - Final status and insights
+- TEST PLAN.pdf - Manual test plan 
+- TEST CASE.pdf - Manually written test cases
+- BUG REPORT.pdf - Bugs found during testing
+- TEST SUMMARY.pdf- Final status and insights
 
 ---
 
